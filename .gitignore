@@ -1,0 +1,15 @@
+# Compiled Java class files
+*.class
+src/main/webapp/WEB-INF/classes/
+
+# Log files
+*.log
+
+# Temp files
+*.tmp
+*cookie*.txt
+sources.txt
+
+# OS generated files
+Thumbs.db
+.DS_Store
